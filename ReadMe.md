@@ -1,3 +1,3 @@
 ## THE NATOURS APP
 
-a serverside rendered application built with react.
+A serverside rendered application built with Node.js.
