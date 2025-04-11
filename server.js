@@ -9,7 +9,7 @@ const db = process.env.DATABASE.replace(
   process.env.DATABASE_PASSWORD,
 );
 mongoose.connect(db, {
-  useNewUrlParser: true,
+  // useNewUrlParser: true,
   useUnifiedTopology: true,
 });
 app.listen(port, () => {
